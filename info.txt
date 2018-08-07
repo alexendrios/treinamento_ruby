@@ -1,0 +1,6 @@
+Desenvolvimento de programas relacionados a lógica de programação utilizando a Linguagem Ruby
+
+# Instruções de Decisões;
+# Instrução de Repetição;
+# Utilização de arrays;
+# Funções;
